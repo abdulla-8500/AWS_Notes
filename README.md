@@ -293,7 +293,7 @@ Feel free to:
 
 ## 📌 Author
 
-**Mohammed Saif Ali**
-AWS DevOps Mentor | Cloud & DevOps Engineer
+**Mohammed Abdulla Ahmed**
+AWS DevOps  | Cloud & DevOps Engineer
 
 "Learn AWS by understanding the problem each service solves."
